@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 name: 작업
 about: 팀 블로그 운영 규칙 문서 작업 하나
@@ -14,3 +15,5 @@ labels: task
 
 ## 담당
 (이름)
+=======
+>>>>>>> parent of be06c4e (Merge pull request #1 from applebnana/yeon)
