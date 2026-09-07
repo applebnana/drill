@@ -14,5 +14,3 @@ labels: task
 
 ## 담당
 (이름)
-
-test
